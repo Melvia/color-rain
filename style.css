@@ -8,9 +8,6 @@ body {
     height: 100vh;
     overflow: hidden;
     background: #000;
-    /*display: flex;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
 }
 i {
     position: absolute;
